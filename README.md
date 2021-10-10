@@ -1,5 +1,5 @@
-# Halo semua! 
+# Hello There! 
 
-Perkenalkan nama saya **Nada Ika Sari**.\
-Saya seorang Mahasiswi di STTBandung.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nada-ika-sari-748961188/) ku ya.
+My name is **Nada Ika Sari**.\
+I am a student at STTBandung.\
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nada-ika-sari-748961188/) account.
