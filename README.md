@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Nada Ika Sari**.\
-I am a student at <a href="https://sttbandung.ac.id/">STTBandung.</a>\
+I am a final year student at <a href="https://sttbandung.ac.id/">STTBandung.</a>\
 🌱 I’m currently learning Android Development and Back-End Development\
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nadaikasari/) account.
 
