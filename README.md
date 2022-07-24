@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 My name is **Nada Ika Sari**.\
-I am a final year student at <a href="https://sttbandung.ac.id/">STTBandung.</a>\
 🌱 I’m currently learning Android Development and Back-End Development\
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nadaikasari/) account.
+🤔 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nadaikasari/) account.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadaikasari&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
